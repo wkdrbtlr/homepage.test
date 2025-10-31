@@ -1,4 +1,3 @@
 # Github-project
 
-- push Test
-- Pull Test
+-push Test
